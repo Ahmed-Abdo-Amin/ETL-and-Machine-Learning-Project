@@ -1,0 +1,25 @@
+Collecting pyspark==2.4.8
+  Downloading pyspark-2.4.8.tar.gz (220.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 220.5/220.5 MB 2.4 MB/s eta 0:00:00
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Requirement already satisfied: wget==3.2 in /home/jupyterlab/conda/envs/python/lib/python3.7/site-packages (3.2)
+Collecting pyspark2pmml==0.5.1
+  Downloading pyspark2pmml-0.5.1.tar.gz (1.6 kB)
+  Preparing metadata (setup.py): started
+  Preparing metadata (setup.py): finished with status 'done'
+Collecting py4j==0.10.7
+  Downloading py4j-0.10.7-py2.py3-none-any.whl (197 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 197.3/197.3 kB 22.5 MB/s eta 0:00:00
+Building wheels for collected packages: pyspark, pyspark2pmml
+  Building wheel for pyspark (setup.py): started
+  Building wheel for pyspark (setup.py): finished with status 'done'
+  Created wheel for pyspark: filename=pyspark-2.4.8-py2.py3-none-any.whl size=220864363 sha256=484b47e739d2ad5ee47a597c66c0a6e0bd651a9764de5619b693fc5fd5c7284a
+  Stored in directory: /home/jupyterlab/.cache/pip/wheels/c7/e2/28/ffc69d0248affe36df6b7cb92ca2f0acab5604d04724a6c816
+  Building wheel for pyspark2pmml (setup.py): started
+  Building wheel for pyspark2pmml (setup.py): finished with status 'done'
+  Created wheel for pyspark2pmml: filename=pyspark2pmml-0.5.1-py3-none-any.whl size=2398 sha256=9f3a7adffc06b8877f657c5fa60145b8e2ba5c7640b2fd941b719d3e03b9b499
+  Stored in directory: /home/jupyterlab/.cache/pip/wheels/f6/e1/7e/f09fc78747815ba3ce7121d00436f099f80ce2e8a7370dcdd2
+Successfully built pyspark pyspark2pmml
+Installing collected packages: py4j, pyspark2pmml, pyspark
+Successfully installed py4j-0.10.7 pyspark-2.4.8 pyspark2pmml-0.5.1
