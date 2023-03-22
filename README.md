@@ -233,6 +233,8 @@ Click and open this [link](https://cf-courses-data.s3.us.cloud-object-storage.ap
 
 Note: for both the splits above, use a random seed of 1.
 
+<img src="./9-resample-data-splits.jpg" />
+
 ## <img src="./images/random-forest.jpg" width="60" align="left" > 10. RandomForest classification
 
 <img src="./RandomForect.jpg" />
