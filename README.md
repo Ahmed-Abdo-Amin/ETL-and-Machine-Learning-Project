@@ -5,7 +5,7 @@
 
 </center>
 
-## <img src="./images/intr.png" width='45' align='left'/> Indroduction
+## <img src="./images/intr.png" width='45' align='left'/> Introduction
 
 In this Project, We imported data from an external dataset and create a DataFrame. We saved the data to a Parquet file and follow the steps to train the module using with Apache Spark. We completed the project by deploying the model to the IBM Watson Machine Learning (WML) Service. IBM WML is a scalable, scale-to-zero cloud service that supports training and serving of machine learning and deep learning models, providing a HTTP(S) endpoint for seamless consumption from third-party applications.
 
